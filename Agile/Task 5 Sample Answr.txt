@@ -1,0 +1,26 @@
+Example Answer
+Great work! Here's how you could have attempted this task: 
+
+Scenario 1
+The team has a scheduled daily stand-up at 9 am in the morning. The meetings usually take over an hour. A lot of time is spent discussing a tricky dependency between several tasks that requires extensive conversation.
+
+Diagnosis: Daily standups are meant to be truly short meetings that are designed to have a strict agenda and rigid time frame. Only small issues that can be resolved quickly are addressed during the standup. Any large issue should be taken ‘offline’ and resolved during a separate meeting dedicated to the issue.
+Remedy: Scrum Master should set up a separate meeting for the discussion and resolution of a tricky dependency. Invite only the team members that are directly working on the issue.
+
+Scenario 2
+In the beginning of the sprint the tasks were picked up by the development team. However, by the middle of the sprint, development team starts to look to Scrum Master to assign tasks to individual developers.
+
+Diagnosis: Agile is a bottom-up approach rather than top-down approach. Team collaboration must prevail over centralized management. 
+Remedy: Discuss with the team the importance of the collaborative approach in Agile.
+
+Scenario 3
+If a development team member needs to discuss a task with the Product Owner, the developer approaches Scrum Master to help set up a meeting with the Product Owner.
+
+Diagnosis: There is a breakdown in communications between developers and business people. In Agile it is imperative that business and developers work together daily throughout the project.
+Remedy: The Product Owner has to make sure there are open lines of communication with developers. The developers have to be comfortable to reach out to the Product Owner with any issue or outstanding questions.
+
+Scenario 4
+The team is using the latest Agile Application Lifecycle Management (ALM) tool because it is supposed to be most effective. However, most of the team is not familiar with it and is having hard time getting used to the tool.
+
+Diagnosis: This is the effect of a new shiny toy. It might be the latest and greatest in Application Lifecycle Management, however it is hindering the work rather than enhancing it.
+Remedy: In most cases, the best ALM tool for the team is the one that most of the team members are familiar with. It is important to focus on individuals and interactions rather than tools.
