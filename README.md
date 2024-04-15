@@ -18,7 +18,7 @@ Problem-Solving Solutions
 ### Usage
 Feel free to review the documents and provide feedback. If you have any questions or suggestions, please open an issue or reach out directly.
 
-###Author
+### Author
 Duneesha Suloshini
 
 Certificate : https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Cognizant/ZZswQd6xGydd758vz_Cognizant_sNY3dpBKLyqJDDhKr_1713169056904_completion_certificate.pdf
