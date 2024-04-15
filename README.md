@@ -4,18 +4,18 @@ User showcased strong project management understanding by analyzing Agile/Waterf
 
 ### This repository contains the deliverables for the Agile task, which includes:
 
-Presentation: A comprehensive analysis of Agile and Waterfall methodologies, highlighting their strengths and weaknesses.
-User Stories: Identification of user stories for an interplanetary video-conferencing application.
-Scrum Documentation: Document detailing Scrum role assignments and ceremonies.
-Problem-Solving: Solutions proposed for development process issues encountered during sprints.
+1. Presentation: A comprehensive analysis of Agile and Waterfall methodologies, highlighting their strengths and weaknesses.
+2. User Stories: Identification of user stories for an interplanetary video-conferencing application.
+3. Scrum Documentation: Document detailing Scrum role assignments and ceremonies.
+4. Problem-Solving: Solutions proposed for development process issues encountered during sprints.
 
-###Contents
+### Contents
 Presentation
 User Stories
 Scrum Documentation
 Problem-Solving Solutions
 
-###Usage
+### Usage
 Feel free to review the documents and provide feedback. If you have any questions or suggestions, please open an issue or reach out directly.
 
 ###Author
